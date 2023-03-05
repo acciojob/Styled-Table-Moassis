@@ -1,1 +1,15 @@
 /* your code */
+table{
+	border:solid black;
+	width:100%;
+}
+tr{
+	background:gold;
+}
+td{
+	color:black;
+}
+th{
+	background:blue;
+	color:white;
+}
